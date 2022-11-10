@@ -2,7 +2,7 @@
 I am Dr. Pierre Olivier, a data analyst/data scientist with a passion for the sea and environment.
 
 ### 💧 About Me in 30 Secs 💧
-- I am Ph.D. in biological oceanography since April 2022 🧑‍🔬
+- I have a Ph.D. in biological oceanography since April 2022 🧑‍🔬
 - I apply statistics and machine learning to (environmental) data
 - I have a rare skill: I combine networks, graphs, and time series (see my [publications](https://scholar.google.fr/citations?user=QaG46p0AAAAJ&hl=en))
 - I regularly expand my skill set: currently learning "Tableau" & Mexican Cumbia (🕺💃)
