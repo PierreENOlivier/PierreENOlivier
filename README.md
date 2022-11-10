@@ -15,7 +15,7 @@ I am Dr. Pierre Olivier, a data analyst/data scientist with a passion for the se
 - My peer-reviewed scientific [publications](https://scholar.google.fr/citations?user=QaG46p0AAAAJ&hl=en)
 - The summary of my [Ph.D. thesis](https://doria.fi/handle/10024/184805)
 
-### Some of the tools and techniques I have used
+### 💻 Some of the tools and techniques I have used 💻
 <details><summary>Graph theory and network analysis</summary>
   <p>
     <li>Unipartite networks (e.g. 'food webs')</li>
@@ -29,6 +29,15 @@ I am Dr. Pierre Olivier, a data analyst/data scientist with a passion for the se
   <p>
     <li>Time series analysis of networks</li>
     <li>Stock market time series analysis</li>
+  </p>
+</details>
+
+<details><summary>Machine learning & other algorithms</summary>
+  <p>
+    <li>PCA for summarizing main temporal trends</li>
+    <li>Co-inertia analysis (e.g. fourth-corner) for testing variable associations</li>
+    <li>Clustering for species grouping</li>
+    <li>Random Forest for classification</li>
   </p>
 </details>
 
