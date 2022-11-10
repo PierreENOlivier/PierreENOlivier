@@ -15,6 +15,22 @@ I am Dr. Pierre Olivier, a data analyst/data scientist with a passion for the se
 - My peer-reviewed scientific [publications](https://scholar.google.fr/citations?user=QaG46p0AAAAJ&hl=en)
 - The summary of my [Ph.D. thesis](https://doria.fi/handle/10024/184805)
 
+### Some of the tools and techniques I have used
+<details><summary>Graph theory and network analysis</summary>
+  <p>
+    <li>Unipartite networks (e.g. 'food webs')</li>
+    <li>Bipartite networks (e.g. 'plant-pollinator'</li>
+    <li>Topological analysis</li>
+    <li>Flow analysis</li>
+  </p>
+</details>
+
+<details><summary>Time series analysis</summary>
+  <p>
+    <li>Time series analysis of networks</li>
+    <li>Stock market time series analysis</li>
+  </p>
+</details>
 
 ### 🧠 Core Competencies 🧠
 - Main tools: SQL, R Programming (🌟personal favourite), Python
