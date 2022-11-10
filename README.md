@@ -1,7 +1,37 @@
-### Hi there 👋
+### Hi there 🙋‍♂️
+I am Dr. Pierre Olivier, a data analyst/data scientist with a passion for the sea and environment.
+
+### 💧 About Me in 30 Secs 💧
+- I am Ph.D. in biological oceanography since April 2022 🧑‍🔬
+- I apply statistics and machine learning to (environmental) data
+- I have a rare skill: I combine networks, graphs, and time series (see my [publications](https://scholar.google.fr/citations?user=QaG46p0AAAAJ&hl=en))
+- I regularly expand my skill set: currently learning "Tableau" & Mexican Cumbia (🕺💃)
+- I love teaching and communicating science through blogs and social media @[SHINE.Science](https://www.instagram.com/shine.science/) and @[OceanFact](https://www.instagram.com/oceanfact/)
+
+### 📓 Portfolio 📓
+<!--- For an overview of projects: check here, otherwise, see below. --->
+- Some cool [projects](https://github.com/PierreENOlivier/datascience_portfolio) using machine learning and graphs
+- My entries to the [Tidy Tuesday](https://github.com/PierreENOlivier/my_tidytuesdays) competition
+- My peer-reviewed scientific [publications](https://scholar.google.fr/citations?user=QaG46p0AAAAJ&hl=en)
+- The summary of my [Ph.D. thesis](https://doria.fi/handle/10024/184805)
+
+
+### 🧠 Core Competencies 🧠
+- Main tools: SQL, R Programming (🌟personal favourite), Python
+- Skills: Data cleaning and wrangling, Data analysis, Data visualization, Reporting and Oral communication to technical and non-technical stakeholders
+- Secondary tools: MS Office, Adobe CC
+- Linguistics: English (C1), French 🥖 (native), Spanish (B2)
+
+### 📚 Currently Learning 📚 ###
+- Tableau
+- Dashboards with Shiny Apps and Streamlit
+
+### ✉️ Connect with Me ✉️
+- [LinkedIn](https://www.linkedin.com/in/pierre-olivier-phd-data-1485598b/)
+- [Twitter](https://twitter.com/PierreENOlivier)
+
 
 <!--
-**PierreENOlivier/PierreENOlivier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
