@@ -15,6 +15,12 @@ I am Dr. Pierre Olivier, a data analyst/data scientist with a passion for the se
 - My peer-reviewed scientific [publications](https://scholar.google.fr/citations?user=QaG46p0AAAAJ&hl=en)
 - The summary of my [Ph.D. thesis](https://doria.fi/handle/10024/184805)
 
+### 🧠 Core Competencies 🧠
+- Main tools: SQL, R Programming (🌟personal favourite), Python
+- Skills: Data cleaning and wrangling, Data analysis, Data visualization, Reporting and Oral communication to technical and non-technical stakeholders
+- Secondary tools: MS Office, Adobe CC
+- Linguistics: English (C1), French 🥖 (native), Spanish (B2)
+
 ### 💻 Some of the tools and techniques I have used 💻
 <details><summary>Graph theory and network analysis</summary>
   <p>
@@ -40,12 +46,6 @@ I am Dr. Pierre Olivier, a data analyst/data scientist with a passion for the se
     <li>Random Forest for classification</li>
   </p>
 </details>
-
-### 🧠 Core Competencies 🧠
-- Main tools: SQL, R Programming (🌟personal favourite), Python
-- Skills: Data cleaning and wrangling, Data analysis, Data visualization, Reporting and Oral communication to technical and non-technical stakeholders
-- Secondary tools: MS Office, Adobe CC
-- Linguistics: English (C1), French 🥖 (native), Spanish (B2)
 
 ### 📚 Currently Learning 📚 ###
 - Tableau
