@@ -16,7 +16,7 @@ I am Dr. Pierre Olivier, a data analyst/data scientist with a passion for the se
 - The summary of my [Ph.D. thesis](https://doria.fi/handle/10024/184805)
 
 ### 🧠 Core Competencies 🧠
-- Main tools: SQL, R Programming (🌟personal favourite), Python
+- Main tools: SQL, R Programming, Python
 - Skills: Data cleaning and wrangling, Data analysis, Data visualization, Reporting and Oral communication to technical and non-technical stakeholders
 - Secondary tools: MS Office, Adobe CC
 - Linguistics: English (C1), French 🥖 (native), Spanish (B2)
